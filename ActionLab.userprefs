@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="ActionLab.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Downloads\Standard.shader">
+    <Files>
+      <File FileName="..\..\..\Downloads\Standard.shader" Line="36" Column="19" />
+      <File FileName="..\..\StandardShaderGUI.cs" Line="261" Column="67" />
+      <File FileName="..\..\UnityStandardUtils.cginc" Line="13" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

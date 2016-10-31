@@ -1,5 +1,5 @@
 ![ActionLab Logo](http://i.imgur.com/9DO924J.png)
-[![forthebadge](http://forthebadge.com/images/badges/gluten-free.svg)]    (http://forthebadge.com)[![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/gluten-free.svg)]&nbsp;&nbsp;&nbsp;&nbsp;(http://forthebadge.com)[![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
 
 An action-reaction toolkit for Unity
 
